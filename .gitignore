@@ -1,0 +1,13 @@
+# Compiled files
+bin/
+target/
+build/
+out/
+
+# Java
+*.class
+
+# Eclipse
+.settings/
+.project
+.classpath
